@@ -1,0 +1,12 @@
+body {
+    background-color: #3e4451;
+    color: #ffffff
+}
+
+.content {
+    padding: 1rem;
+}
+
+input.form-control {
+    margin: 3px
+}
